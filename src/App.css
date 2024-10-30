@@ -32,6 +32,19 @@
   font-family: 'Arial', sans-serif;
 }
 
+.neon {
+  background-color: #0f0f0f; /* Dark background */
+  color: #39ff14; /* Bright neon green text */
+  border: 3px solid #39ff14; /* Neon green border */
+  text-shadow: 0 0 5px #39ff14; /* Glowing text effect */
+}
+
+.night {
+  background-color: #1a1a2e; /* Deep blue night sky background */
+  color: #e0e0e0; /* Soft white text for readability */
+  border: 2px solid #0f3460; /* Dark blue border for depth */
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
